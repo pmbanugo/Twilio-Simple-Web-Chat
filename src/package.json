@@ -1,0 +1,19 @@
+{
+  "name": "simple-web-chat-app-with-twilio-in-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["twilio", "realtime"],
+  "author": "Peter Mbanugo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "twilio": "^3.6.5"
+  },
+  "devDependencies": {
+    "strip-ansi": "^3.0.1"
+  }
+}
