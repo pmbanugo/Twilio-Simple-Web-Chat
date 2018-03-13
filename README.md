@@ -1,4 +1,4 @@
-Sample application on building a chat app using Twilio.
+Sample application on building a chat app using Twilio. See this blog post for more details: https://www.twilio.com/blog/2017/11/build-simple-web-chat-apps-javascript-nodejs-twilio.html
 
 # Setup:
 1. run `npm install`
